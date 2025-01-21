@@ -12,4 +12,8 @@
   </div>
 
   <h3 align="center">A Gaming Website</h3>
+  
+ <div align="center">
+    A gaming website with animations, responsive UI, built with React.js, GSAP, and Tailwind CSS.
+    </div>
 </div>
