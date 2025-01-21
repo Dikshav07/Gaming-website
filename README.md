@@ -1,7 +1,8 @@
 <div align="center">
   <br />
-      <img src="![Image](https://github.com/user-attachments/assets/83969294-e4c7-4c9b-9fe3-6586878e0519)" alt="Project Banner">
-    </a>
+  <a href="#">
+    <img src="https://github.com/user-attachments/assets/1fde3220-6cea-4563-9b30-7ca3efe95343" alt="Gaming Website Image">
+  </a>
   <br />
 
   <div>
@@ -11,3 +12,4 @@
   </div>
 
   <h3 align="center">A Gaming Website</h3>
+</div>
