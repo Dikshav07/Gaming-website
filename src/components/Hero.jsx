@@ -28,7 +28,7 @@ const Hero = () => {
       setLoading(false);
     }
   }, [loadedVideos]);
-
+  
   const handleMiniVdClick = () => {
     setHasClicked(true);
 
